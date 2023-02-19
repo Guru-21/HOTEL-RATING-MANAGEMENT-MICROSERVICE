@@ -27,8 +27,8 @@ spring:
             provider: okta
             authorizationGrantType: client_credentials
             scope: internal
-            clientId: 0oa8865uy7MP7boS25d7
-            clientSecret: 08Du37h_ynvurdczD3YB1sHfP0QaRdQi-9UClibx
+            clientId: <Your ClientID>
+            clientSecret: <Your Secret>
         provider:
           okta:
             issuerUri: https://dev-13465540.okta.com/oauth2/default
